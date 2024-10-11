@@ -1,0 +1,3 @@
+ip: 16.171.15.232
+username: Administrator
+password: ts4JgdAJ9%3UDemVT7eTciQ6d?J0j4q2
